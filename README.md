@@ -1,4 +1,4 @@
 
-This is beta 2, 10/2/21
+Beta 2, 10/5/24
 
 Usage docs are coming soon.

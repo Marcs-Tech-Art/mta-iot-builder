@@ -45,8 +45,8 @@ def run_server():
 
 
 if __name__ == '__main__':
-    print('m2ag.labs webthings service beta 2.0')
-    print('copyright 2021 https://m2aglabs.com')
+    print("Marc's Tech Art iot service beta 2.0")
+    print('copyright 2024 https://marcstechart.com')
     logging.basicConfig(
         level=config['log_level'],
         format="%(asctime)s %(filename)s:%(lineno)s %(levelname)s %(message)s"

@@ -170,8 +170,8 @@ def format_return(data):
 
 # TODO: move to tornado app
 if __name__ == '__main__':
-    print('m2ag.labs webthings builder service beta 2.0')
-    print('copyright 2021 https://m2aglabs.com')
+    print("Marc's TechArt builder service beta 2.0")
+    print('copyright 2021 https://marcstechart.com')
     if os.path.isfile('config/ssl/server.crt') and os.path.isfile(
             'config/ssl/server.key'):
         context = ('config/ssl/server.crt', 'config/ssl/server.key')
